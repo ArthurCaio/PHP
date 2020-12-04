@@ -1,1 +1,37 @@
-# php
+- [ ] Fundamentos
+- [ ] Variaveis
+- [ ] Variaveis Dinamicas
+- [ ] Tipos de Dados
+- [ ] Aspas Simples e Compostas
+- [ ] Concatenação
+- [ ] Escopos de Variaveis
+- [ ] Constantes
+- [ ] Arrays
+- [ ] Funçoes Arrays
+- [ ] Condicionais
+- [ ] Operadores de Aritmeticos
+- [ ] Operadores de Incremento e de Decremento
+- [ ] Operadores de Atribuição
+- [ ] Operadores de Comparação
+- [ ] Operadores Logicos
+- [ ] Repetições
+- [ ] Funções para Strings
+- [ ] Funções para Numeros
+- [ ] Funções
+- [ ] SuperGlobais
+- [ ] Formularios
+- [ ] Validações
+- [ ] Sanitização
+- [ ] Upload de Arquivos
+- [ ] Upload de Múltiplo
+- [ ] Sessões
+- [ ] Sistemas de Login
+- [ ] Criptografia
+- [ ] Senhas seguras
+- [ ] SQL Injection
+- [ ] CRUD com PHP
+- [ ] XSS
+- [ ] $_COOKIE
+- [ ] Trabalhando com Datas
+- [ ] Manipulação de Arquivos
+- [ ] Expressões Regulares

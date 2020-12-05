@@ -1,4 +1,8 @@
-- [ ] Fundamentos
+# PHP
+
+## PHP
+
+- [x] Fundamentos
 - [ ] Variaveis
 - [ ] Variaveis Dinamicas
 - [ ] Tipos de Dados
@@ -35,3 +39,26 @@
 - [ ] Trabalhando com Datas
 - [ ] Manipulação de Arquivos
 - [ ] Expressões Regulares
+
+ ## PHP Orientado ao Objeto
+
+ - [ ] Classes, Atributos e Métodos
+ - [ ] Getters and Setters
+ - [ ] Constructors
+ - [ ] Herança
+ - [ ] Modificadores de Acesso
+ - [ ] Abstração
+ - [ ] Constantes, Self e Parent
+ - [ ] Métodos e Atrisbutos Estáticos
+ - [ ]  Polimorfismo
+ - [ ] Interfaces
+ - [ ] Namespace
+ - [ ] Refêrencia e Clonagem de Objetos
+ - [ ] Tratamento de Exceções
+ - [ ] Relação entre os objetos
+ - [ ] Metodos Mágicos
+ - [ ] Composer
+ - [ ] Variáveis de Ambiente e Servidor Embutido
+ - [ ] Composer Init,Require e Update
+ - [ ] Composer Install
+ - [ ] CRUD com PDO

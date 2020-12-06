@@ -71,4 +71,17 @@
     else:
         echo "Não é um objeto";
     endif;
+    echo "<hr>";
+    /*********************ESPECIAS*********************/
+    //null
+    $cidade = null;
+    var_dump($cidade);
+    echo "<br>";
+    if (is_null($cidade)):
+        echo "É um valor nulo";
+    else:
+        echo "Não é um valor nulo";
+    endif;
+
+    //resoure
 ?>

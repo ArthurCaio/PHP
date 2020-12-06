@@ -3,11 +3,11 @@
 ## PHP
 
 - [x] Fundamentos
-- [ ] Variaveis
-- [ ] Variaveis Dinamicas
-- [ ] Tipos de Dados
-- [ ] Aspas Simples e Compostas
-- [ ] Concatenação
+- [x] Variaveis
+- [x] Variaveis Dinamicas
+- [x] Tipos de Dados
+- [x] Aspas Simples e Compostas
+- [x] Concatenação
 - [ ] Escopos de Variaveis
 - [ ] Constantes
 - [ ] Arrays

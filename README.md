@@ -8,8 +8,8 @@
 - [x] Tipos de Dados
 - [x] Aspas Simples e Compostas
 - [x] Concatenação
-- [ ] Escopos de Variaveis
-- [ ] Constantes
+- [x] Escopos de Variaveis
+- [x] Constantes
 - [ ] Arrays
 - [ ] Funçoes Arrays
 - [ ] Condicionais
